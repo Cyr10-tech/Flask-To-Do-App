@@ -27,11 +27,16 @@ To run the project locally, follow these steps:
 3. Install the required dependencies
 - Have python and pip installed
 - Install flask by running:
+ ```bash
 python -m pip install -r requirements.txt
-
+```
 4. Run the app
+```
 python app.py
+```
 
-5. Open your browser and enter the url:
+6. Open your browser and enter the url:
+   ```
    htttp://127.0.0.1:5000/
-6. 
+   ```
+
